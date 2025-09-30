@@ -50,3 +50,11 @@ print(f"{a} / {b} = {a/b}")
 print(f"{a} % {b} = {a%b}")
 print(f"The square of {a} is {square_a}")
 print(f"The square of {b} is {square_b}")
+
+
+# Question 5: Functions
+# Function with an argument
+def greet(name):
+    return f"Good morning, {name}!"
+    
+print(greet("Rehema"))
