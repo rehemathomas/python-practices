@@ -42,3 +42,11 @@ b = 5
 
 square_a = a**2
 square_b = b**2
+
+print(f"{a} + {b} = {a+b}")
+print(f"{a} - {b} = {a-b}")
+print(f"{a} * {b} = {a*b}")
+print(f"{a} / {b} = {a/b}")
+print(f"{a} % {b} = {a%b}")
+print(f"The square of {a} is {square_a}")
+print(f"The square of {b} is {square_b}")
