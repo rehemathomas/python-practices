@@ -7,3 +7,18 @@ print("My dream is to become a professional Website developer and IT specialist 
 print("I love coding")
 print("I love coding") 
 print("I love coding")
+
+# Question 2: Comments
+# This is a variable declaration
+myVar = 9
+
+# Printing result of the variable
+print(myVar)
+
+# Variable declaration and arithmetic
+a = 1
+b = 2
+c = a + b  # store result in variable c
+
+# Printing result of arithmetic
+print(c)
