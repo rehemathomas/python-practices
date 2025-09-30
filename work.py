@@ -56,5 +56,12 @@ print(f"The square of {b} is {square_b}")
 # Function with an argument
 def greet(name):
     return f"Good morning, {name}!"
-    
+
 print(greet("Rehema"))
+
+# Function that returns the square of a number
+def square(x):
+    return x**2
+
+print(square(2))
+print(square(7))
