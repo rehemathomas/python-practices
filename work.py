@@ -35,3 +35,10 @@ age = 20
 country = "Tanzania"
 
 print(f"My name is {name}, I am {age} years old and I live in {country}.")
+
+# Question 4: Arithmetic
+a = 10
+b = 5
+
+square_a = a**2
+square_b = b**2
