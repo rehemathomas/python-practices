@@ -28,3 +28,10 @@ def greet_simple():
     print("Good morning")
 
 greet_simple()
+
+# Question 3: Variables
+name = "Rehema"
+age = 20
+country = "Tanzania"
+
+print(f"My name is {name}, I am {age} years old and I live in {country}.")
