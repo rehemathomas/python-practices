@@ -22,3 +22,9 @@ c = a + b  # store result in variable c
 
 # Printing result of arithmetic
 print(c)
+
+# This function prints a greeting
+def greet_simple():
+    print("Good morning")
+
+greet_simple()
